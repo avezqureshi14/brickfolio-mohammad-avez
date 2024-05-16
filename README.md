@@ -1,6 +1,6 @@
 # Brickfolio Landing Page - Mohammad Avez Qureshi 
-
 ## Deployed URL 🔴 : https://brickfolio-mohammad-avez.netlify.app/
+## Github URL 🔴 : https://github.com/avezqureshi14/brickfolio-mohammad-avez 
 
 This project is a web page replication based on the provided Figma design for an assignment from Brickfolio Solutions Pvt Ltd. It includes various sections and interactive elements designed to match the given specifications.
 
