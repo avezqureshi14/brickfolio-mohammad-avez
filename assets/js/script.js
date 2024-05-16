@@ -1,3 +1,6 @@
+// Github Link for the code : https://github.com/avezqureshi14/brickfolio-mohammad-avez  
+// Deployed Link 🔴 : https://brickfolio-mohammad-avez.netlify.app/  
+
 document.addEventListener('DOMContentLoaded', () => {
     var swiper = new Swiper(".mySwiper", {
         slidesPerView: 1, // Number of slides per view
