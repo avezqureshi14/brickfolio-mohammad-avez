@@ -53,6 +53,6 @@ The project structure contains the following files and directories:
 
 ## Contact
 
-For any inquiries or issues regarding this project, please contact Mohammad Avez Qureshi 👇 
+For any inquiries or issues regarding this project, please contact Mohammad Avez Qureshi  👉 
 Mobile : 9890562214 
 Email : avezqureshi4785@gmail.com.
